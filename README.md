@@ -115,8 +115,8 @@ python app.py
 ## 🧑‍💻 Author
 
 **Prattyan Ghosh**  
-📧 Email: prattyanghosh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prattyanghosh) | [Portfolio](https://prattyanghosh.xyz)
+📧 Email: abirsanyal99@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/subhrasanyal) 
 
 ---
 
