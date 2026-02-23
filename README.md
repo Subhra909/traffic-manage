@@ -114,10 +114,10 @@ python app.py
 
 ## 🧑‍💻 Author
 
-**Prattyan Ghosh**  
+**Subhra Sanyal**  
 📧 Email: abirsanyal99@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/subhrasanyal) 
 
 ---
-
+**Forked from Prattyan Ghosh**
 ⭐ If you find this project useful, consider giving it a star!
